@@ -3,25 +3,31 @@
 **Home Page/List Page**
 
 
-![Screenshot (49)](https://user-images.githubusercontent.com/92074984/175778417-113f9803-c7cd-4d55-93aa-1cd6c76f11f0.png)
+
+![Screenshot (54)](https://user-images.githubusercontent.com/92074984/175788887-f8abe940-3d46-4a76-b6b1-208030fdda0a.png)
+
+
 
 **Create page**
 
 
-![Screenshot (50)](https://user-images.githubusercontent.com/92074984/175778451-3f7469fb-3f8d-44a3-a2d5-9664577453c9.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/92074984/175788896-f2631bfd-3974-4008-8ae7-a80443735be6.png)
+
 
 **Detail Page**
 
+![Screenshot (58)](https://user-images.githubusercontent.com/92074984/175788930-f6b47f56-bd44-45ea-9177-f15f0448aac5.png)
 
-![Screenshot (51)](https://user-images.githubusercontent.com/92074984/175778490-af4d81a9-7a38-43e7-9994-6ab894e8759e.png)
+
 
 **Update Page**
 
-![Screenshot (53)](https://user-images.githubusercontent.com/92074984/175778588-841819c2-ea63-4afe-85db-07b939587f22.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/92074984/175788939-dbe53be1-a286-4cd4-9445-5391b7449b96.png)
+
 
 
 **Delete Page**
 
-![Screenshot (52)](https://user-images.githubusercontent.com/92074984/175778467-2c839d37-9a6f-4998-af69-47856b8ec44d.png)
 
 
+![Screenshot (56)](https://user-images.githubusercontent.com/92074984/175788951-5e1082f7-a8ad-45b0-8ec0-6a90f0719228.png)
